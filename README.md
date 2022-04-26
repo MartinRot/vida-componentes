@@ -1,4 +1,4 @@
-# Ciclos de vida de un componente funcional - This project is for the React Bootcamp @ Devlights
+## Ciclos de vida de un componente funcional - This project is for the React Bootcamp @ Devlights
 
 
 # Getting Started with Create React App
